@@ -1,0 +1,11 @@
+# Python ignores
+__pycache__/
+*.py[cod]
+.env
+.venv
+env/
+venv/
+
+# Streamlit ignores
+.streamlit/config.toml
+.streamlit/secrets.toml
