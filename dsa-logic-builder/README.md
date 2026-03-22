@@ -3,7 +3,7 @@
 
 A smart AI mentor to help you build Data Structures & Algorithms intuition without giving away the final code\!
 
-**Live App:** [https://dsa-mentor.streamlit.app](https://www.google.com/search?q=https://dsa-mentor.streamlit.app)
+**Live App:** [https://dsa-mentor.streamlit.app](https://dsa-mentor.streamlit.app)
 
 ## 🚀 What is this?
 
