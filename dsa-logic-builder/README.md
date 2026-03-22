@@ -34,7 +34,7 @@ You paste a problem description or title, and it generates a 5-step logic roadma
 
     ```bash
     git clone https://github.com/vedap24/problem-solving-apps.git
-    cd problem-solving-apps
+    cd problem-solving-apps/dsa-logic-builder
     ```
 
 2.  **Install the required libraries:**
